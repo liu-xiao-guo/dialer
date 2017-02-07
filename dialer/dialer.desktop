@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=dialer
+Exec=qmlscene %U dialer/Main.qml
+Icon=dialer/dialer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

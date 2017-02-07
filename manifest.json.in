@@ -1,0 +1,16 @@
+{
+    "name": "dialer.liu-xiao-guo",
+    "description": "description of dialer",
+    "architecture": "@CLICK_ARCH@",
+    "title": "dialer",
+    "hooks": {
+        "dialer": {
+            "apparmor": "dialer/dialer.apparmor",
+            "desktop":  "dialer/dialer.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
